@@ -1,0 +1,7 @@
+# IDEA files
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+.idea_modules/
